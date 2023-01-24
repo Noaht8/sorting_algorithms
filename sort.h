@@ -1,6 +1,7 @@
 #ifndef __SORT__
 #define __SORT__
 #include <stdlib.h>
+#include <stdio.h>
 
 
 /* Comparison direction macros for bitonic sort */
